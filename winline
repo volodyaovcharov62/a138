@@ -1,5 +1,5 @@
 {
-  "mode": "true",
+  "mode": "false",
   "links": {
     "1": "https://www.google.ru"
   },
